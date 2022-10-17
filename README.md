@@ -36,11 +36,10 @@
 <br/>
 
 [![Github Follow](https://img.shields.io/github/followers/Amdhj22?label=Follow%20Me&style=social)](https://github.com/Amdhj22)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangTaehyun&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmdhj22&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <strong>Github stats</strong>
 
 ![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amdhj22&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HwangTaehyun.github.io/)](https://HwangTaehyun.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:amdhj22@gmail.com)
