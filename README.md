@@ -40,6 +40,8 @@
 
 <strong>Github stats</strong>
 
-![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amdhj22&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+![Amdhj22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amdhj22&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+
+<a href="https://github.com/Amdhj22/github-contributor-stats">![Amdhj22's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Amdhj22&hide=B,B+&theme=swift)</a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:amdhj22@gmail.com)
