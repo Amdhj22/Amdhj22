@@ -55,8 +55,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amdhj22&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amdhj22&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" />
+  <img src="https://streak-stats.demolab.com?user=Amdhj22&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amdhj22&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <br/>
